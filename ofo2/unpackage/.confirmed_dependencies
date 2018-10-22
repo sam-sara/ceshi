@@ -1,0 +1,10 @@
+{
+	"index.html": {
+		"refer": [
+			"gxdc/gxdc.html"
+		],
+		"resources": [
+			"gxdc/gxdc.html"
+		]
+	}
+}
